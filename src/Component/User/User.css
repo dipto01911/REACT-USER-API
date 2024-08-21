@@ -1,0 +1,19 @@
+.first{
+    text-align: center;
+    width: 80%;
+    box-shadow: 10px 10px 20px gray;
+    padding: 20px;
+    margin-top: 30px;
+}
+.second{
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+}
+.second button{
+    padding: 10px;
+     background-color: goldenrod;
+     border-radius: 5px;
+     cursor: pointer;
+     margin-bottom: 10px;
+}

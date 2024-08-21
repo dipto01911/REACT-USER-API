@@ -1,0 +1,8 @@
+.portion{
+    width: 100%;
+    text-align: center;
+    box-shadow: 10px 10px 20px gray;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}

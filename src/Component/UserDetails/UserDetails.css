@@ -1,0 +1,29 @@
+.person{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    }
+    .section1{
+        width: 20%;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 10px 10px 20px gray;
+       margin-left: 70px;
+       text-align: center;
+       height: 260px;
+       
+    }
+.section1 button{
+
+    padding: 7px;
+    background-color: goldenrod;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    
+}
+.section2{
+    width: 30%;
+}
+
